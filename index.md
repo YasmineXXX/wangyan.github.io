@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+### Biography
 
-You can use the [editor on GitHub](https://github.com/YasmineXXX/wangyan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I received my B.S. degree in Department of Information Management and System in June 2019 from [Jinan University](https://www.ujn.edu.cn/). In 2020, I was admitted to study for a M.S. degree in [Shandong University](https://www.sdu.edu.cn/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently I am a second year graduate student of [Department of Artificial Intelligence](https://www.sc.sdu.edu.cn/) in Shandong University and a member of [MIMA Group](http://mima.sdu.edu.cn/), led by professor [Xin Luo](https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm).
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bachelor of Business Management in Information Management and System, Jinan University, 2015.09 - 2019.06
 
-```markdown
-Syntax highlighted code block
+Master’s degree in Artificial Intelligence, Shandong University, 2020.09 - 2023.06
 
-# Header 1
-## Header 2
-### Header 3
+### Interests
 
-- Bulleted
-- List
+Video Moment Retrieval
 
-1. Numbered
-2. List
+Federated Learning
 
-**Bold** and _Italic_ and `Code` text
+Video Understanding
 
-[Link](url) and ![Image](src)
-```
+Cross-Modal Retrieval
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Publications
 
-### Jekyll Themes
+1. Hui-Qiong Li, Yongxin Wang, Zhen-Duo Chen, Xin Luo*, and Xin-Shun Xu. Ranking-based supervised discrete cross-modal hashing. Chinese Journal of Computers (计算机学报). 2021, 44(8): 1620-1635. (In Chinese, CCF A) 
+2. Federated Video Moment Retrieval[code is available]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YasmineXXX/wangyan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Supervisor
+
+[Xin Luo](https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm), Professor [Xin-Shun Xu](https://www.sc.sdu.edu.cn/info/1044/2253.htm)
+
+### Pages
+
+[csdn](https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343)
+
+[github](https://github.com/YasmineXXX)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+wangyan_jn@foxmail.com
