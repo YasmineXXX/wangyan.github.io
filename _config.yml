@@ -3,8 +3,4 @@ title: Wang Yan
 logo: /zhengjianzhao.jpg
 description: The personal website of Wang Yan.
 
-# Filtering Content
-show_drafts         : null
-limit_posts         : 0
-future              : false
-unpublished         : false
+site.github.is_project_page: False
