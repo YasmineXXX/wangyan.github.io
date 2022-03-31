@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Wang Yan
 logo: /zhengjianzhao.jpg
+description: 
 
 layouts_dir: _layouts
