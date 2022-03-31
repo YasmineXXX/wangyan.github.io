@@ -1,4 +1,3 @@
-
 ### Biography
 
 I received my B.S. degree in Department of Information Management and System in June 2019 from [University of Jinan](https://www.ujn.edu.cn/). In 2020, I was admitted to study for a M.S. degree in [Shandong University](https://www.sdu.edu.cn/).
