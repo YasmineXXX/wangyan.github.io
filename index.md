@@ -1,29 +1,32 @@
+![证件照](/zhengjianzhao.jpg)
+
 ### Biography
 
-I received my B.S. degree in Department of Information Management and System in June 2019 from [Jinan University](https://www.ujn.edu.cn/). In 2020, I was admitted to study for a M.S. degree in [Shandong University](https://www.sdu.edu.cn/).
+I received my B.S. degree in Department of Information Management and System in June 2019 from [University of Jinan](https://www.ujn.edu.cn/). In 2020, I was admitted to study for a M.S. degree in [Shandong University](https://www.sdu.edu.cn/).
 
 Currently I am a second year graduate student of [Department of Artificial Intelligence](https://www.sc.sdu.edu.cn/) in Shandong University and a member of [MIMA Group](http://mima.sdu.edu.cn/), led by professor [Xin Luo](https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm).
 
 ### Education
 
-Bachelor of Business Management in Information Management and System, Jinan University, 2015.09 - 2019.06
+* Bachelor of Business Management in Information Management and System, University of Jinan, 2015.09 - 2019.06
 
-Master’s degree in Artificial Intelligence, Shandong University, 2020.09 - 2023.06
+* Master’s degree in Artificial Intelligence, Shandong University, 2020.09 - 2023.06
 
 ### Interests
 
-Video Moment Retrieval
+* Video Moment Retrieval
 
-Federated Learning
+* Federated Learning
 
-Video Understanding
+* Video Understanding
 
-Cross-Modal Retrieval
+* Cross-Modal Retrieval
 
 ### Publications
 
-1. Hui-Qiong Li, Yongxin Wang, Zhen-Duo Chen, Xin Luo*, and Xin-Shun Xu. Ranking-based supervised discrete cross-modal hashing. Chinese Journal of Computers (计算机学报). 2021, 44(8): 1620-1635. (In Chinese, CCF A) 
-2. Federated Video Moment Retrieval[code is available]
+1. Yan Wang, Yu-Wei Zhan, Xin Luo*, Meng Liu, and Xin-Shun Xu. Survey of Video Moment Retrieval. Chinese Journal of Software (软件学报). (In Chinese, CCF A) (Not Yet Submitted)
+
+2. Federated Video Moment Retrieval[[code is available]](https://github.com/YasmineXXX/vmr_fl)
 
 ### Supervisor
 
