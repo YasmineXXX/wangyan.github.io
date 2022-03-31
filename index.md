@@ -1,4 +1,3 @@
-![证件照](/zhengjianzhao.jpg)
 
 ### Biography
 
