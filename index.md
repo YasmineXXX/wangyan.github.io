@@ -30,12 +30,6 @@ Currently I am a second year graduate student of [Department of Artificial Intel
 
 [Xin Luo](https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm), Professor [Xin-Shun Xu](https://www.sc.sdu.edu.cn/info/1044/2253.htm)
 
-### Pages
-
-[csdn](https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343)
-
-[github](https://github.com/YasmineXXX)
-
-### Support or Contact
+### Contact
 
 wangyan_jn@foxmail.com
