@@ -6,7 +6,7 @@ Currently I am a second year graduate student of [Department of Artificial Intel
 
 ### Education
 
-* Bachelor of Business Management in Information Management and System, University of Jinan, 2015.09 - 2019.06
+* Bachelor of Management in Information Management and System, University of Jinan, 2015.09 - 2019.06
 
 * Master’s degree in Artificial Intelligence, Shandong University, 2020.09 - 2023.06
 
