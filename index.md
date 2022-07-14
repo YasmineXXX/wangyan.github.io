@@ -33,3 +33,4 @@ Currently I am a second year graduate student of [Department of Artificial Intel
 ### Contact
 
 wangyan_jn@foxmail.com
+[反科研pua所所长的主页]([https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm](https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343))
