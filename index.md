@@ -36,7 +36,7 @@ Currently I am a third year graduate student of [Department of Artificial Intell
 
 * [csdn](https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343)
 
-* [github](https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343](https://github.com/YasmineXXX)
+* [github](https://github.com/YasmineXXX)
 
 
 
