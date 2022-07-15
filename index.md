@@ -32,6 +32,11 @@ Currently I am a third year graduate student of [Department of Artificial Intell
 
 ### Contact
 
-wangyan_jn@foxmail.com
-[csdn](https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343)
-[github]([https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343](https://github.com/YasmineXXX))
+* wangyan_jn@foxmail.com
+
+* [csdn](https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343)
+
+* [github](https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343](https://github.com/YasmineXXX)
+
+
+
