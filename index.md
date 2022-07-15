@@ -2,7 +2,7 @@
 
 I received my B.S. degree in Department of Information Management and System in June 2019 from [University of Jinan](https://www.ujn.edu.cn/). In 2020, I was admitted to study for a M.S. degree in [Shandong University](https://www.sdu.edu.cn/).
 
-Currently I am a second year graduate student of [Department of Artificial Intelligence](https://www.sc.sdu.edu.cn/) in Shandong University and a member of [MIMA Group](http://mima.sdu.edu.cn/), led by [Xin Luo](https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm).
+Currently I am a third year graduate student of [Department of Artificial Intelligence](https://www.sc.sdu.edu.cn/) in Shandong University and a member of [MIMA Group](http://mima.sdu.edu.cn/), led by [Xin Luo](https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm).
 
 ### Education
 
@@ -33,4 +33,5 @@ Currently I am a second year graduate student of [Department of Artificial Intel
 ### Contact
 
 wangyan_jn@foxmail.com
-[反科研pua所所长的主页]([https://faculty.sdu.edu.cn/luoxin/zh_CN/index.htm](https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343))
+[csdn](https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343)
+[github]([https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343](https://github.com/YasmineXXX))
