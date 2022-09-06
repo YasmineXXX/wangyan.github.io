@@ -22,9 +22,11 @@ Currently I am a third year graduate student of [Department of Artificial Intell
 
 ### Publications
 
-1. Yan Wang, Yu-Wei Zhan, Xin Luo*, Meng Liu, and Xin-Shun Xu. Survey of Video Moment Retrieval. Chinese Journal of Software (软件学报). (In Chinese, CCF A) 
+1. Wang Y, Zhan YW, Luo X, Liu M, Xu XS. Survey of Video Moment Retrieval. Ruan Jian Xue Bao/Journal of Software, (in Chinese). http://www.jos.org.cn/1000-9825/6707.htm. 
 
-2. Federated Video Moment Retrieval[[code is available]](https://github.com/YasmineXXX/vmr_fl)
+2. Federated Video Moment Retrieval[[code is available]](https://github.com/YasmineXXX/vmr_fl), 一作, 在投
+
+3. 专利《一种基于联邦学习的视频片段检索方法及系统》, 学生一作, 审查中
 
 ### Supervisor
 
@@ -37,6 +39,3 @@ Currently I am a third year graduate student of [Department of Artificial Intell
 * [csdn](https://blog.csdn.net/YasmineC?spm=1001.2101.3001.5343)
 
 * [github](https://github.com/YasmineXXX)
-
-
-
