@@ -14,8 +14,6 @@ Currently I am a third year graduate student of [Department of Artificial Intell
 
 * Video Moment Retrieval
 
-* Federated Learning
-
 * Video Understanding
 
 * Cross-Modal Retrieval
