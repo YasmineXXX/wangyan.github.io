@@ -24,7 +24,7 @@ Currently I am a third year graduate student of [Department of Artificial Intell
 
 2. Federated Video Moment Retrieval[[code is available]](https://github.com/YasmineXXX/vmr_fl), 一作, 在投
 
-3. 专利《一种基于联邦学习的视频片段检索方法及系统》, 学生一作, 审查中
+3. 专利《一种基于联邦学习的视频片段检索方法及系统》, 22.10.28授权, ZL 2022 1 0849763.8, 学生一作
 
 ### Supervisor
 
