@@ -22,7 +22,7 @@ Currently I am a third year graduate student of [Department of Artificial Intell
 
 1. Wang Y, Zhan YW, Luo X, Liu M, Xu XS. Survey of Video Moment Retrieval. Ruan Jian Xue Bao/Journal of Software, (in Chinese). http://www.jos.org.cn/1000-9825/6707.htm. 
 
-2. Federated Video Moment Retrieval[[code is available]](https://github.com/YasmineXXX/vmr_fl), 一作, 在投
+2. Wang Y, Luo X, Chen Z D, et al. FedVMR: A New Federated Learning method for Video Moment Retrieval. ICASSP, 2023.
 
 3. 专利《一种基于联邦学习的视频片段检索方法及系统》, 22.10.28授权, ZL 2022 1 0849763.8, 学生一作
 
